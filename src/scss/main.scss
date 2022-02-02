@@ -1,0 +1,20 @@
+$priamry-clr: yellow;
+
+// @font-face {
+//   font-family: nasalization;
+//   src: url("../assets/fonts/nasalization-rg.otf");
+// }
+
+body {
+  display: grid;
+  place-content: center;
+  font-family: nasalization, sans-serif;
+
+  h1 {
+    color: blue;
+  }
+
+  h2 {
+    color: black;
+  }
+}

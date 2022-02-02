@@ -1,0 +1,19 @@
+/*!*******************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/scss/main.scss ***!
+  \*******************************************************************************************************************************************************************************************************************************************/
+body {
+  display: grid;
+  -ms-flex-line-pack: center;
+      align-content: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  place-content: center;
+  font-family: nasalization, sans-serif;
+}
+body h1 {
+  color: blue;
+}
+body h2 {
+  color: black;
+}
